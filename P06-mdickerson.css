@@ -1,0 +1,196 @@
+/* Name: Madeline Dickerson
+*  Date: 30 May 2018
+*  Final Project */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Whole Website Attributes*/
+body {
+    width: 100%;
+    background-color: #d5e1ed;
+    margin: 0px auto;
+    border: 1px solid black;
+    font-family: helvetica;
+    color: #3c3d3f;
+}
+/* Second Heading */
+#MD {
+	color: #035475;
+	}
+
+/* First Heading */
+h1 {
+    padding: 10px;
+    color: #035475;
+
+}
+
+/* Border for header */
+header {
+    border-bottom: 2px solid #680a36;
+    background-color: #d69ecc;
+}
+
+/* Column 1 */
+#sidebarA {
+    width: 15%;
+    height: 565px;
+    float: left;
+    border-right: 2px solid #680a36;
+}
+
+/*Column 2 */
+main {
+    width: 63%;
+    height: 565px;
+    float: left;
+    padding-left: 6px;
+    font-family: helvetica;
+    color: #3c3d3f;
+}
+
+/*column 3*/
+#sidebarB {
+    width: 20%;
+    height: 565px;
+    float: right;
+    border-left: 2px solid #680a36;
+}
+
+/*footer*/
+footer {
+    clear: left;
+    border-top: 2px solid #680a36;
+	color: #680b0e;
+	font-family: helvetica;
+	font-size: 14px;
+	padding: 10px 7px;
+}
+
+/*top header*/
+.blackwell {
+	color:  #035475;
+	text-align: center; 
+	font-weight: bold;
+	font-family: helvetica;
+	}
+
+	
+/*young image*/
+.img1 {
+	height: 39%;
+	width: 23%;
+	margin-right: 8px;
+	margin-bottom: 3px;
+	margin-left: 5px;
+	float: left;
+	border: 2px solid #870a70
+	}
+	
+/*image painting*/
+.img3 {
+	height: 55%;
+	width: 37%;
+	float: right;
+	margin-right: 8px;
+	margin-bottom: 8px;
+	margin-left: 8px;
+	margin-top: 8px;
+	border: 2px solid #870a70
+	}
+	
+/*quote at bottom of main*/
+.quote, .speaker {
+	font-weight: bold;
+	font-family: helvetica;
+	color: #870a70;
+	}
+	
+/*top titles of trivia*/
+.top {
+	text-transform: uppercase; 
+	font-family: helvetica; 
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	color: #870a70;
+	}
+	
+/*bottom titles for trivia*/
+.bottom {
+	font-family: helvetica; 
+	text-align: center;
+	font-size: 14px;
+	}
+	
+/*Trivia text attributes*/
+.trivia {
+	text-align: center;
+	font-size: 25px;
+	color: #0f1c70;
+	font-family: helvetica;
+	}
+	
+/*all h2s*/
+h2 {
+	text-align: center;
+	color: #680b0e;
+	font-family: helvetica;
+	}
+	
+/*color for titles*/
+.bio, .trivia, .source {
+	color: #035475;
+	font-family: helvetica;
+	}
+	
+/*Accomplishments*/
+.accomp {
+	color: #035475;
+	text-align: center;
+	font-family: helvetica;
+	}
+/*Accomplishments titles*/	
+.facts {
+	color: #680b0e;
+	font-family: helvetica;
+	padding-left: 5px;
+	padding-right: 5px;
+	}
+/*Accomplishments years*/	
+.years {
+	text-transform: uppercase; 
+	font-family: helvetica; 
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	color: #870a70;
+	}
+	
+.facts {
+	font-family: helvetica; 
+	text-align: center;
+	font-size: 14px;
+	color: black;
+	}
+/*Sources*/	
+.source{
+	text-align: left;}
+.cite {
+	float: right;
+	font-size: 14px;
+	}
+/*Links attributes*/	
+a:hover, a:focus {
+	background-color:#e1c3f7; 
+	color:#8e0e46;
+	font-size: 13pt;
+	}
+li {
+	font-size: 16px;
+	}
+
+
